@@ -70,3 +70,13 @@ For more information on the details of the competition guidelines, please visit 
 * http://corioblog.com/lewitt_3.jpg by Sol LeWitt
 * http://ecx.images-amazon.com/images/I/51zcbWqkXpL._SX258_BO1,204,203,200_.jpg by Sol LeWitt
 * https://cdn.thinglink.me/api/image/410681348190109698/1024/10/scaletowidth Quia by Keith Haring
+
+## Setup instructinos
+For every new terminal, we must initialize the catkin worspace:
+<pre>$ soruce /opt/ros/indigo/setup.bash
+$ cd src
+$ catkin_init_workspace
+$ cd ../
+$ catkin_make
+</pre>
+
