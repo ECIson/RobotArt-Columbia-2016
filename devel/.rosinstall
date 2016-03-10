@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/eci2109/robotart_ws/devel/setup.sh
