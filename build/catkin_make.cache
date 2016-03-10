@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/eci2109/Desktop/robotart/devel -DCMAKE_INSTALL_PREFIX=/home/eci2109/Desktop/robotart/install -G Unix Makefiles
